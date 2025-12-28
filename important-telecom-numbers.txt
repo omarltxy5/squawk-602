@@ -1,0 +1,5 @@
+SMSC: +201550985040 (PDU: 0791025105890504)
+
+MCC: 602 (Egypt)
+
+mDefaultSubld = 1
