@@ -3,3 +3,12 @@ SMSC: +201550985040 (PDU: 0791025105890504)
 MCC: 602 (Egypt)
 
 mDefaultSubld = 1
+MMS Settings:
+- APN: MMS.te.eg
+- MMSC URL: http://wemmsc.te.eg:8080
+- MMS Proxy: wemmsc.te.eg
+- MMS Port: 8080
+- IP Type: IPv4
+- Username: (leave blank if not required)
+- Password: (leave blank if not required)
+- Authentication Type: None
